@@ -1,0 +1,10 @@
+VARIABLES
+pain - 0 (no pain) to 10 (most intense pain imaginable)
+fatigue- 0 (no fatigue) to 10 (extreme fatigue)
+maia - Multidimensional Assessment of Interoceptive Awareness (MAIA), subscales: 
+noticing, not_distracting, not_worrying, att_regul, emo_awar, self_reg, body_listen, trusting
+
+bes - body esteem scale, 1 - strong negative feelings, 5 - strong positive feelings (a list of body parts)
+
+fiq - 10 items on scale 0 - 10 
+fbaq - Fremantle Back Awareness Questionnaire (0 - Nunca, 1 - raramente, 2 - ocasionalmente, 3 - a menudo, 4 - siempre o casi siempre)  
